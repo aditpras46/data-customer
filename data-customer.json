@@ -1,12 +1,12 @@
 [
   {
-    "timestamp": "19/1/2026, 06.37.59",
+    "timestamp": "19/1/2026, 06.38.28",
     "nama": "bayu",
     "barang": "baju anak",
     "qty": 1,
-    "harga": 600,
-    "total": 600,
+    "harga": 500,
+    "total": 500,
     "keterangan": "",
-    "id": 1768779479491
+    "id": "1768779479491"
   }
 ]
